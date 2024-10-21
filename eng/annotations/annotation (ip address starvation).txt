@@ -1,0 +1,5 @@
+The article "IP ADDRESS STARVATION" written by
+it is devoted to the problem of ip address starvation
+At the beginning author shows how this problem appeared
+He also explaines how IPv6 appeared and replaced orinial IP (IPv4) protocol 
+In the next part of article author points to the fact that  was very limited

@@ -1,0 +1,10 @@
+The article "OVERCOMING THE CHALLENGE OF PLATFORM COMPATIBILITY IN WEB DEVELOPMENT" written by Krasnova and Vichugov
+it touches upon the problem of platform compatibility
+At the begginning author defines platform compitability and explains it's main problem
+The problem is related to consistent behaviour of application across different platforms
+In the main body of an article author shows the main reason that leads to discussable problem
+The reason is due to large number of devices and browsers avalable on the market
+The next part of article is devoted to possible solution
+There author offers web developers to follow latest standards and guidelines and test their application compatibility to ensure that it performs consistently across all platforms 
+Also author provide advises to web developers on how to solve issues related to main problem
+In conclusion author admits that platform compitability is a challenge and repeats possible solutions

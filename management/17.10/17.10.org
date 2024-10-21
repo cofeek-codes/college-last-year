@@ -1,0 +1,6 @@
+#+TITLE: Конфликт. Классификация конфликтов
+#+AUTHOR: Кормышев Егор ИСиП-401
+#+DATE: 17.10.2024
+#+LANGUAGE: ru
+#+LaTeX_HEADER: \usepackage[russian]{babel}
+

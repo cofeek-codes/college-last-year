@@ -1,0 +1,9 @@
+The article "THE FUTURE OF INTERNET SECURITY" written by
+it is devoted to the future of internet security
+At the beginning author reminds what is internet security
+He explains what it is, what it protects and shows various threats to it
+In the next part of article author points to the fact that future of internet security is highly depends on human intervention
+because only humnans can monitor network usage and and create new ways to protect it from various types of attacks
+Then author discusses current state of internet security, noting that nowadays biggest part of security methods is related to biometrics
+In conclusion author discusses the acceptance of biometric technologies
+It's advantages and disadvantages and refers to ethical issues
