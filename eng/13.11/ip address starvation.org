@@ -1,0 +1,7 @@
+The article "IP ADDRESS STARVATION" written by
+it is devoted to the problem of ip address starvation
+At the beginning author reminds what is ip and what is differences between ipv4 and ipv6
+He explains the limitations of ipv4
+In the next part of article author points to the anticipation of internet expantion
+Then he notes drawbacks of ipv6
+In conclusion author says that ipv6 will definetly replace ipv4
